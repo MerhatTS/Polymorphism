@@ -1,4 +1,4 @@
-public class TestMonsterDragonVampire {
+public class MonsterDragonVampire {
     public static void main(String[] args) {
         Monster[] ma = new Monster[3];
         ma[0] = new Vampire();
